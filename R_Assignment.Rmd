@@ -186,7 +186,7 @@ y <- sample(c("M","F"),size = 1000, replace = TRUE)
 #df from 3.2.1
 df <- data.frame(df)
 
-#print(head(df))  # first 6
+print(head(df))  # first 6
 ```
 
 
